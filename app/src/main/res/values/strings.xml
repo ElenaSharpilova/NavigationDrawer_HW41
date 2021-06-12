@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavigationDrawer_HW41</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="fragment_1">Home</string>
+    <string name="fragment_2">About</string>
+    <string name="fragment_3">Setting</string>
+</resources>
